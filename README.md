@@ -11,7 +11,7 @@ Welcome to the **Equation Plotter** project! This Python project helps students 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/equation-plotter.git
+   git clone https://github.com/BikramMondal5/Explicit-graph-plotter.git
    ```
 2. **Navigate to the project directory:**
    ```bash
