@@ -25,3 +25,7 @@ Welcome to the **Equation Plotter** project! This Python project helps students 
    ```bash
    python main.py
    ```
+   
+### 🤝 Contribution
+
+Feel free to fork this repository, raise issues, or submit pull requests to add features and improve the design. 
